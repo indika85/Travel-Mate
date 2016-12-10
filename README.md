@@ -1,2 +1,3 @@
 # Travel-Mate
-C# program to demonstrate the nearest neighbour algorithm 
+
+This is a C# application developed to demonstrate the nearest neighbor and nearest insertion algorithms.
